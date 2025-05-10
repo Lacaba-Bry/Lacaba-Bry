@@ -52,7 +52,7 @@ Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursui
 
 
 ### 🐍 Snake Game Contribution Graph
-![snake gif](https://github.com/Lacaba-Bry/Lacaba-Bry/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Lacaba-Bry/Lacaba-Bry/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
