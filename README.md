@@ -43,10 +43,7 @@ Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursui
 
 ---
 
-## 🎮 Play Tetris in Your Terminal
 
-```bash
-npx tetris-cli
 
 ---
 
@@ -67,4 +64,7 @@ npx tetris-cli
 
 ---
 
-<!-- Created with ❤️ by Bryan Lacaba -->
+## 🎮 Play Tetris in Your Terminal
+
+```bash
+npx tetris-cli
