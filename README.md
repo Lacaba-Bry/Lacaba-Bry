@@ -24,14 +24,13 @@ Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursui
 
 ## 🖼 Profile Banner
 
-![Banner](https://i.imgur.com/8N3VYtN.png) <!-- Replace with your own hosted image if desired -->
+![Banner](https://[i.imgur.com/8N3VYtN.png](https://imgur.com/gallery/cyber-security-ORFGRId))
 
 ---
 
 ## 📂 Featured Projects
 
 - 🔐 [**Student Attendance System (PHP + MySQL)**](https://github.com/Lacaba-Bry/student-attendance-system) – A simple system to manage student attendance.
-- 📱 [**Android Quiz App (Java)**](https://github.com/Lacaba-Bry/android-quiz-app) – A mobile quiz game built using Java and Android Studio.
 - 🌐 [**Portfolio Website**](https://github.com/Lacaba-Bry/portfolio) – My personal website showcasing my work and contact info.
 
 ---
