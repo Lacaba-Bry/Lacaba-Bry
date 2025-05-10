@@ -45,7 +45,8 @@ Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursui
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Lacaba-Bry/Lacaba-Bry/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/Lacaba-Bry/Lacaba-Bry/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Lacaba-Bry/Lacaba-Bry/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 ---
 
