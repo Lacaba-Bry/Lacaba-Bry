@@ -51,8 +51,11 @@ Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursui
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/bryanlacabaxx)  
 
 
-### 🐍 Snake Game Contribution Graph
-![snake gif](https://github.com/Lacaba-Bry/Lacaba-Bry/blob/output/github-contribution-grid-snake.svg)
+
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Lacaba-Bry/Lacaba-Bry/output/github-contribution-grid-snake.svg)
+
 
 ---
 
