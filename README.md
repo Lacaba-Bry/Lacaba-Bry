@@ -46,9 +46,9 @@ Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursui
 ## 🐍 Contribution Activity Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lacaba-Bry/Lacaba-Bry/output/github-contribution-grid-snake.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lacaba-Bry/Lacaba-Bry/output/github-contribution-grid-snake.git" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lacaba-Bry/Lacaba-Bry/output/github-contribution-grid-snake.git" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lacaba-Bry/Lacaba-Bry/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lacaba-Bry/Lacaba-Bry/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lacaba-Bry/Lacaba-Bry/output/github-contribution-grid-snake.svg" />
 </picture>
 ---
 
