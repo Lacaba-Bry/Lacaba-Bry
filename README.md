@@ -54,8 +54,6 @@ Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursui
 
 ## 🌐 Let's Connect!
 
-## 🌐 Let's Connect!
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Bryan%20Lacaba) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bryan.lacaba@cvsu.edu.ph) [![Discord](https://img.shields.io/badge/Discord-7289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/bruan0548) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/@bryanlacabaxx) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/bryanlacabaxx)
 
 ---
