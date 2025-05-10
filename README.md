@@ -62,8 +62,8 @@ Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursui
 
 ---
 
-
 ## 📍 Profile Visitors
+
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Lacaba-Bry&title=Profile%20Views)
 
 
