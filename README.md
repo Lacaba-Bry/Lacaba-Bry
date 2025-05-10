@@ -22,11 +22,6 @@ Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursui
 
 ---
 
-## 🖼 Profile Banner
-
-![Banner](https://[i.imgur.com/8N3VYtN.png](https://imgur.com/gallery/cyber-security-ORFGRId))
-
----
 
 ## 📂 Featured Projects
 
@@ -62,9 +57,3 @@ Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursui
 
 [![](https://visitcount.itsvg.in/api?id=Lacaba-Bry&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
----
-
-## 🎮 Play Tetris in Your Terminal
-
-```bash
-npx tetris-cli
