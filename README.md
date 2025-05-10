@@ -24,7 +24,7 @@ Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursui
 
 ## 🖼 Profile Banner
 
-![Banner](https://tenor.com/view/code-gif-20588417)
+![Banner][(https://tenor.com/view/code-gif-20588417)](https://media1.tenor.com/m/DjFgsyrrHFAAAAAd/code.gif)
 
 ---
 
