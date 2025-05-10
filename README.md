@@ -22,6 +22,11 @@ Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursui
 
 ---
 
+## 🖼 Profile Banner
+
+![Banner](https://imgur.com/8N3VYtN.png)
+
+---
 
 ## 📂 Featured Projects
 
@@ -38,7 +43,9 @@ Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursui
 
 ---
 
+## 🐍 Contribution Snake
 
+![snake gif](https://raw.githubusercontent.com/Lacaba-Bry/Lacaba-Bry/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -50,16 +57,10 @@ Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursui
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/@bryanlacabaxx)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/bryanlacabaxx)  
 
-
-
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Lacaba-Bry/Lacaba-Bry/output/github-contribution-grid-snake.svg)
-
-
 ---
 
 ## 📍 Profile Visitors
 
 [![](https://visitcount.itsvg.in/api?id=Lacaba-Bry&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
+---
