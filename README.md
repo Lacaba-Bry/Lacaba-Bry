@@ -37,7 +37,9 @@ Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursui
 
 I earned the **GitHub Foundations** certification issued by [GitHub via Credly](https://www.credly.com/badges/e38f829c-51fd-45d7-b669-862e91610dcf).
 
-![GitHub Foundations Certificate](https://raw.githubusercontent.com/Lacaba-Bry/Lacaba-Bry/main/GitHub_Foundations.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lacaba-Bry/Lacaba-Bry/main/.github/GitHub_Foundations.png" alt="GitHub Foundations Certificate" width="300"/>
+</p>
 
 🗓️ **Issued:** June 19, 2025  
 📅 **Valid Until:** June 19, 2028  
