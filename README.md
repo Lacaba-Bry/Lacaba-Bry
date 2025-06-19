@@ -35,18 +35,13 @@ Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursui
 
 ## 🎓 GitHub Foundations Certification
 
-I earned the **GitHub Foundations** certification issued by [GitHub via Credly](https://www.credly.com/badges/e38f829c-51fd-45d7-b669-862e91610dcf).
+I earned the *GitHub Foundations* certification issued by [GitHub via Credly](https://www.credly.com/badges/e38f829c-51fd-45d7-b669-862e91610dcf).
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lacaba-Bry/Lacaba-Bry/main/.github/GitHub_Foundations.png" alt="GitHub Foundations Certificate" width="300"/>
-</p>
+![GitHub Foundations Certificate](https://raw.githubusercontent.com/Lacaba-Bry/Lacaba-Bry/main/GitHub_Foundations.png)
 
-🗓️ **Issued:** June 19, 2025  
-📅 **Valid Until:** June 19, 2028  
-🛠️ **Skills:** GitHub Actions · CI/CD · DevOps · Markdown · Branching · Project Management
-
----
-
+🗓️ *Issued:* June 19, 2025  
+📅 *Valid Until:* June 19, 2028  
+🛠️ *Skills:* GitHub Actions · CI/CD · DevOps · Markdown · Branching · Project Management
 ## 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Lacaba-Bry&theme=radical&hide_border=false&show_icons=true)  
