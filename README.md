@@ -33,6 +33,16 @@ Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursui
 - 🔐 [**Student Attendance System (PHP + MySQL)**](https://github.com/Lacaba-Bry/student-attendance-system) – A simple system to manage student attendance.
 - 🌐 [**Portfolio Website**](https://github.com/Lacaba-Bry/portfolio) – My personal website showcasing my work and contact info.
 
+## 🎓 GitHub Foundations Certification
+
+I earned the **GitHub Foundations** certification issued by [GitHub via Credly](https://www.credly.com/badges/e38f829c-51fd-45d7-b669-862e91610dcf).
+
+![GitHub Foundations Certificate](https://raw.githubusercontent.com/Lacaba-Bry/Lacaba-Bryan/main/filename.png)
+
+🗓️ **Issued:** June 19, 2025  
+📅 **Valid Until:** June 19, 2028  
+🛠️ **Skills:** GitHub Actions · CI/CD · DevOps · Markdown · Branching · Project Management
+
 ---
 
 ## 📈 GitHub Stats
