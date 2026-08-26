@@ -1,6 +1,6 @@
 # 💼 About Me
 
-🎓 **2nd Year BSIT Student**  
+🎓 **4Th Year BSIT Student**  
 💻 Passionate in Software Development & Networking
 
 Hi there! I'm **Bryan Lacaba**, a curious and motivated student currently pursuing a Bachelor of Science in Information Technology. I focus on developing scalable systems, secure networks, and real-world software solutions. I'm passionate about bridging theory with hands-on applications and continuously exploring new tools and technologies.
